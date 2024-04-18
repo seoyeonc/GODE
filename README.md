@@ -23,4 +23,4 @@ We uploaded two files
 
 ### Visualization
 
-We organized the results with the tables and the figures on here[https://seoyeonc.github.io/GODE_dashboard/GODE.html].
+We organized the results with the tables and the figures on [here](https://seoyeonc.github.io/GODE_dashboard/GODE.html).
