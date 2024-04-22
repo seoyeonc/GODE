@@ -1,5 +1,9 @@
 # GODE: Graph fourier transform based Outlier Detection using Emprical Bayesian thresholding
 
+## Dashboard
+
+We organized the results with the tables and the figures on [here](https://seoyeonc.github.io/GODE_dashboard/GODE.html).
+
 ## Prepare Dataset
 
 ### Simulation
@@ -20,7 +24,6 @@ We uploaded two files
 
 2. The file named `GODE` encompasses all the results of our research, including both simulations and real data analysis. We hope that you attempt to utilize this code for further exploration.
 
+## Tutorial
 
-### Visualization
-
-We organized the results with the tables and the figures on [here](https://seoyeonc.github.io/GODE_dashboard/GODE.html).
+This is [a tutorial page](https://seoyeonc.github.io/GODE_blog/posts/2_research/2023-11-27-GODE_Tutorial.html) for this paper.
